@@ -3,14 +3,16 @@
     "slug": "article-1",
     "title": "Mon premier article",
     "date": "2025-06-27",
-    "content": "Ceci est le contenu de mon premier article."
+    "content": "Ceci est le contenu de mon premier article.",
+    "image": "article1.jpg" 
      
   },
   {
     "slug": "article-2",
     "title": "Deuxième article",
     "date": "2025-06-28",
-    "content": "Voici le contenu du deuxième article."
+    "content": "Voici le contenu du deuxième article.",
+    "image": "article2.jpg" 
   },
   {
     "slug": "article-3",
